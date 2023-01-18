@@ -4,7 +4,6 @@
 //
 //  Created by Kaytlin Simmer on 12/2/21.
 //
-//this program works perfectly on my computer but core dumps on moodle for some reason :(
 
 #include <iostream>
 #include <pthread.h>
